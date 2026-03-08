@@ -1,4 +1,4 @@
-name: beniardi34@gmail.com
+name: beniardi
 
 on:
   workflow_dispatch:
